@@ -1,0 +1,23 @@
+.vers {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 35rem;
+}
+
+* {
+    background-color: #B3FFE6;
+}
+
+a {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: lawngreen;
+}
